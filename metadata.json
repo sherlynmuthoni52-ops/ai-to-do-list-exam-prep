@@ -1,0 +1,6 @@
+{
+  "name": "CalmPrep Exam Planner",
+  "description": "A calm, mobile-friendly exam planner with a 14-day timeline, live countdowns, study tasks, daily 7am–11pm timetable, and PDF study plan export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
